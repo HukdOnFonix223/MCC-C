@@ -2,7 +2,9 @@
 MCC - C++ Programming
 
 PA-02_Prebeck
+
 Programming Assignment 02
+
 "It Aint Easy Being Cheesey"
 
 Author:  Blake Prebeck
