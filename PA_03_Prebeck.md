@@ -1,7 +1,7 @@
 # MCC-C++
 MCC - C++ Programming
 
-PA-03_Prebeck
+PA_03_Prebeck
 
 Programming Assignment 03
 
