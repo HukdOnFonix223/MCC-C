@@ -5,7 +5,7 @@ PA_04_Prebeck
 
 Programming Assignment 04
 
-"Letter counter"
+"Letter Counter"
 
 Author:  Blake Prebeck
 
